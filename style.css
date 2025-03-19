@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid black;
+    text-indent: 80px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    line-height: 30px;
+    white-space: nowrap;
+}
+
+.box{
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 0 0 3px red,0 0 3px gray;
+}
